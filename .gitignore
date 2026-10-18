@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dart and Flutter generated local state
+.dart_tool/
+
+# Flutter build output
+build/
+
+# IDE-specific files
+.idea/
+.vscode/

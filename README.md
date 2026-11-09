@@ -4,6 +4,14 @@ A Flutter document utility with an implemented PDF viewing workflow and Android 
 
 The current application focuses on opening local PDFs. Support for editing documents, additional office formats, and AI tools is a product direction rather than an implemented capability.
 
+## Mobile interface preview
+
+The intentionally minimal entry screen provides a single file-selection action; once a PDF is chosen or shared from Android, the document becomes the full-screen experience.
+
+<p align="center">
+  <img src="docs/images/aifile-mobile-entry.png" alt="AIFile mobile file-entry interface" width="360">
+</p>
+
 ## Features
 
 - Select a PDF using the native file picker.
